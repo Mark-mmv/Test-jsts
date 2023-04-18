@@ -1,0 +1,3 @@
+C:\Users\Komp\MyDevelopment\JSProjects\Test-jsts\Test-jsts\obj\Debug\Test-jsts.njsproj.AssemblyReference.cache
+C:\Users\Komp\MyDevelopment\JSProjects\Test-jsts\Test-jsts\obj\Debug\Test-jsts.njsproj.CoreCompileInputs.cache
+C:\Users\Komp\MyDevelopment\JSProjects\Test-jsts\Test-jsts\bin\Microsoft.NodejsTools.WebRole.dll
